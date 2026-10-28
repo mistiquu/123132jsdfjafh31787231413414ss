@@ -5,6 +5,12 @@
       "hwid": "",
       "expires": null,
       "revoked": false
+    },
+    "30c91690838dfb620aef1e6d5ca1db0f094edf25acd8146e1b2e8a1b6211a12c": {
+      "note": "Eu",
+      "hwid": "CB4C79BC40226317DC89AB43",
+      "expires": "2026-10-29",
+      "revoked": false
     }
   }
 }
