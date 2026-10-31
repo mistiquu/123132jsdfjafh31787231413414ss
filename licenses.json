@@ -11,6 +11,12 @@
       "hwid": "CB4C79BC40226317DC89AB43",
       "expires": "2026-10-29",
       "revoked": false
+    },
+    "82abc2641fee21b40295a43974ebaa6ff5452fa17a6aab2a0ac590104a7d6ec9": {
+      "note": "eu",
+      "hwid": "CB4C79BC40226317DC89AB43",
+      "expires": null,
+      "revoked": false
     }
   }
 }
