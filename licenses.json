@@ -23,6 +23,12 @@
       "hwid": "CB4C79BC40226317DC89AB43",
       "expires": "2027-02-28",
       "revoked": false
+    },
+    "34fb7f7a7deb93e4e8f9b8eaff1bbd775bf91c2abc06eee3fc34179dad855dbc": {
+      "note": "Mihai",
+      "hwid": "CB4C79BC40226317DC89AB43",
+      "expires": "2027-02-28",
+      "revoked": false
     }
   }
 }
